@@ -1,6 +1,7 @@
 module com.puj.patrones.caso_estudio_poo {
     requires javafx.controls;
     requires javafx.fxml;
+    requires javafx.graphics;
     requires java.base;
     requires gson;
     requires java.sql;
